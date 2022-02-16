@@ -20,7 +20,7 @@
     
 ### Gameboy
  ```javascript
- <div style="width:640px;height:480px;max-width:100%">
+<div style="width:640px;height:480px;max-width:100%">
         <div id="game"></div>
       </div>
 <script type="text/javascript">
@@ -36,7 +36,7 @@
     
 ### Gameboy Advanced
  ```javascript
- <div style="width:640px;height:480px;max-width:100%">
+<div style="width:640px;height:480px;max-width:100%">
         <div id="game"></div>
       </div>
 <script type="text/javascript">
@@ -52,7 +52,7 @@
 
 ### Gameboy Color
  ```javascript
- <div style="width:640px;height:480px;max-width:100%">
+<div style="width:640px;height:480px;max-width:100%">
         <div id="game"></div>
       </div>
 <script type="text/javascript">
