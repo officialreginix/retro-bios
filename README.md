@@ -16,7 +16,7 @@
 <script src="https://www.emulatorjs.com/loader.js"></script>
  ```
  
-    - - - -
+   - - - -
     
 ### Gameboy
  ```javascript
@@ -32,7 +32,7 @@
 <script src="https://www.emulatorjs.com/loader.js"></script>
  ```
  
-    - - - -
+   - - - -
     
 ### Gameboy Advanced
  ```javascript
